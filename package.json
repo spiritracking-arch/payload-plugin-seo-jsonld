@@ -1,0 +1,47 @@
+{
+  "name": "payload-plugin-seo-jsonld",
+  "version": "1.0.0",
+  "description": "Schema.org JSON-LD utilities for Payload CMS v3 e-commerce — Product, BreadcrumbList, ItemList, WebSite, Organization. Enables Google rich snippets with zero config.",
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./dist/index.js",
+      "types": "./dist/index.d.ts"
+    }
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "payload",
+    "payload-plugin",
+    "payload-cms",
+    "seo",
+    "json-ld",
+    "schema",
+    "schema-org",
+    "rich-snippets",
+    "structured-data",
+    "ecommerce",
+    "google",
+    "breadcrumb",
+    "product",
+    "nextjs"
+  ],
+  "author": "Camille (spiritracking-arch)",
+  "license": "MIT",
+  "peerDependencies": {
+    "payload": "^3.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "payload": "^3.0.0"
+  }
+}
