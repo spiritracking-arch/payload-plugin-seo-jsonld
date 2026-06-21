@@ -1,6 +1,6 @@
 # payload-plugin-seo-jsonld
 
-Schema.org JSON-LD utilities for [Payload CMS v3](https://payloadcms.com) [e-commerce](https://zojewel.com). Enables Google rich snippets (product cards, carousels, breadcrumbs) with battle-tested helpers built on real production deployments across 23 European shops.
+Schema.org JSON-LD utilities for [Payload CMS v3](https://payloadcms.com) [e-commerce](https://zojewel.com). Enables Google rich snippets (product cards, carousels, breadcrumbs) with battle-tested helpers built on real production deployments across [23 European shops](https://dev.to/spiritrackingarch/how-i-built-the-two-missing-payload-cms-v3-plugins-reviews-json-ld-real-production-bugs-18a1).
 
 ## Features
 
