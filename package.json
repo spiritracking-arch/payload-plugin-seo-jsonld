@@ -37,6 +37,14 @@
   ],
   "author": "Camille (spiritracking-arch)",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spiritracking-arch/payload-plugin-seo-jsonld.git"
+  },
+  "bugs": {
+    "url": "https://github.com/spiritracking-arch/payload-plugin-seo-jsonld/issues"
+  },
+  "homepage": "https://github.com/spiritracking-arch/payload-plugin-seo-jsonld#readme",
   "peerDependencies": {
     "payload": "^3.0.0"
   },
