@@ -1,6 +1,6 @@
 {
   "name": "payload-plugin-seo-jsonld", 
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "Schema.org JSON-LD utilities for Payload CMS v3 e-commerce — Product, BreadcrumbList, ItemList, WebSite, Organization. Enables Google rich snippets with zero config.",
   "main": "dist/index.js",
   "module": "dist/index.js",
