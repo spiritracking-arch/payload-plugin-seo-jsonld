@@ -1,6 +1,10 @@
 # payload-plugin-seo-jsonld
 
+[![npm version](https://img.shields.io/npm/v/payload-plugin-seo-jsonld.svg)](https://www.npmjs.com/package/payload-plugin-seo-jsonld) [![npm downloads](https://img.shields.io/npm/dm/payload-plugin-seo-jsonld.svg)](https://www.npmjs.com/package/payload-plugin-seo-jsonld) [![GitHub stars](https://img.shields.io/github/stars/spiritracking-arch/payload-plugin-seo-jsonld?style=social)](https://github.com/spiritracking-arch/payload-plugin-seo-jsonld/stargazers) [![Payload v3](https://img.shields.io/badge/Payload-v3-black.svg)](https://payloadcms.com) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 Schema.org JSON-LD utilities for [Payload CMS v3](https://payloadcms.com) [e-commerce](https://zojewel.com). Enables Google rich snippets (product cards, carousels, breadcrumbs) with battle-tested helpers built on real production deployments across [23 European shops](https://dev.to/spiritrackingarch/how-i-built-the-two-missing-payload-cms-v3-plugins-reviews-json-ld-real-production-bugs-18a1).
+
+> ⭐ **If this plugin saves you time, [star it on GitHub](https://github.com/spiritracking-arch/payload-plugin-seo-jsonld).** It is the main way other Payload developers find it.
 
 ## Features
 
@@ -211,6 +215,17 @@ curl -s "https://myshop.com/shop" | grep -o '"@type":"ItemList"' | wc -l
 
 Test with [Google Rich Results Test](https://search.google.com/test/rich-results).
 
+## About the author
+
+I'm **Camille Guerineau**. I spent ten years as a jewelry maker and founder of [Loch Ness Paris](https://lochness-paris.com/) before going back to full-stack development. I build Payload CMS shops for real e-commerce, and I publish the pieces that were missing.
+
+- 🧩 Also by me: [`payload-plugin-reviews`](https://github.com/spiritracking-arch/payload-plugin-reviews), customer reviews with moderation and star ratings
+- ✅ [Verumano](https://lochness-paris.com/verumano/), a verifiable "human-made" label for creators, with an open spec and an npm client ([`verumano`](https://www.npmjs.com/package/verumano))
+- ✍️ Writing on [dev.to](https://dev.to/spiritrackingarch)
+- 💬 Questions, bugs or ideas: [open an issue](https://github.com/spiritracking-arch/payload-plugin-seo-jsonld/issues)
+
+Need help with a Payload CMS v3 shop, SEO or rich snippets? Get in touch through [lochness-paris.com](https://lochness-paris.com/).
+
 ## License
 
-MIT — Made by [Camille](https://github.com/spiritracking-arch)
+MIT © [Camille Guerineau](https://github.com/spiritracking-arch)
